@@ -1,7 +1,3 @@
-# MongoDB Life Expectency Search
-
-For this lab you're going to import data from a JSON file containing life expectency from the states, broken down by gender.
-
 ## Environment setup
 
 In the terminal you'll need to install any Python libraries you want to use. You'll almost certainly want to use the `pymongo` library. To install it, go to the terminal in Codespaces and type the following.
@@ -101,4 +97,5 @@ Same as above, but returns the lowest life expectency.
 ### find_average
 
 Returns the average life expectency for all states matching `gender`. 
+
 
